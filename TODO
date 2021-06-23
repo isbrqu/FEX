@@ -1,0 +1,8 @@
+descripcion de la aplicacion
+- permitir el ingreso de problemas (nombre, inserción, imagen)
+- todos pueden ingresar problemas (por ahora), al igual que editarlos y eliminarlos
+- debe ser una unica interfaz (listar, crear, editar y eliminar).
+- debe mostrar el problema en detalle en la misma interfaz con la misma imagen en completo.
+otros:
+- modificar enunciados complejos para que la imagen siempre quede al final
+
